@@ -14,7 +14,7 @@ This is a simple repo to test different ways of collaborating on type projects v
 1. When you're in the correct folder, in your terminal, run the command `git clone git@github.com:thundernixon/git-collab-test.git` to clone this repo (download its contents and history) into your new folder
     1. Just so you know, you can get that SSH address in repos by clicking the big green button, "Clone or Download"
 
-1. confirm the files have downloaded by running the command `ls` to list files
+1. confirm the files have downloaded by running the command `ls` to list files (you can also just go to the folder in finder by running the command `open .` or by just going to finder and clicking your way to it)
 
 ### Next, add a glyph and edit the ampersand in both font files
 
