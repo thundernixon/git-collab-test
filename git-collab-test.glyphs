@@ -1,5 +1,5 @@
 {
-.appVersion = "1116";
+.appVersion = "1075";
 DisplayStrings = (
 "&Ra"
 );
@@ -187,7 +187,7 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2018-02-21 09:45:35 +0000";
+lastChange = "2018-02-22 16:54:03 +0000";
 layers = (
 {
 layerId = "B56E721C-2BDA-42A3-9401-A482582B4786";
@@ -196,7 +196,7 @@ paths = (
 closed = 1;
 nodes = (
 "181 0 LINE",
-"181 681 LINE",
+"181 739 LINE",
 "76 681 LINE",
 "76 0 LINE"
 );
@@ -208,7 +208,7 @@ nodes = (
 "447 279 OFFCURVE",
 "541 349 OFFCURVE",
 "541 494 CURVE",
-"541 613 OFFCURVE",
+"483 578 OFFCURVE",
 "442 681 OFFCURVE",
 "298 681 CURVE",
 "162 681 LINE",
