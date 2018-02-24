@@ -31,5 +31,9 @@ This is a simple repo to test different ways of collaborating on type projects v
 1. You'll either see updates that look something like `57ca341..c842280  master -> master` or you'll see the message "Already up-to-date."
     1. If `git pull` doesn't work yet, you probably need to tell your local git which remote it should be connected to. Use `git branch --set-upstream-to origin/master` to tell Git which "upstream" branch you want to track with your current repo & branch, then run `git pull`
 
+<<<<<<< HEAD
 1. Now, push up your changes with `git push`! Nice.
+=======
+1. Now, push up your changes with `git push`. They should now be on the remote!
+>>>>>>> 76ebf1edcec3c6f84dd4e1ff4609d1f64c712872
 
