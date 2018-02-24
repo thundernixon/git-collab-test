@@ -187,7 +187,7 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2018-02-22 16:54:03 +0000";
+lastChange = "2018-02-24 16:54:03 +0000";
 layers = (
 {
 layerId = "B56E721C-2BDA-42A3-9401-A482582B4786";
@@ -216,7 +216,7 @@ nodes = (
 "277 590 LINE",
 "383 590 OFFCURVE",
 "431 563 OFFCURVE",
-"431 478 CURVE",
+"431 600 CURVE",
 "431 432 OFFCURVE",
 "418 398 OFFCURVE",
 "374 369 CURVE",
